@@ -12,7 +12,7 @@ const Header = () => {
           <a href='/product-info' className='text-white text-xl mr-10 border-b-2 border-green-500 hover:border-b-2 hover:border-gray-500'>
             Product Info
           </a>
-          <a href='/check-out' className='text-white text-xl mr-10 border-b-2 border-green-500 hover:border-b-2 hover:border-gray-500'>
+          <a href='/checkout' className='text-white text-xl mr-10 border-b-2 border-green-500 hover:border-b-2 hover:border-gray-500'>
             Check Out
           </a>
         </nav>
