@@ -15,9 +15,11 @@ const Footer = () => {
             <p>Nabatiyeh Store: Nmairiyeh Main Street</p>
           </div>
           <div>
+
             <h2 className="text-xl font-bold mb-4 text-center">Contact Us</h2>
             <p>Email: cutekids@gmail.com</p>
             <p>Phone: +961 76 638 123</p>
+
           </div>
         </div>
         <div className="mt-8 text-center">
