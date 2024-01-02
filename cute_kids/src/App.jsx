@@ -14,6 +14,7 @@ function App() {
   return (
     <>
       <AuthContextProvider>
+        <div className='min-h-[100vh] flex flex-col justify-between'>
         <Header />
         <BrowserRouter>
           <Routes>
@@ -26,6 +27,7 @@ function App() {
           </Routes>
         </BrowserRouter>
         <Footer />
+        </div>
       </AuthContextProvider>
     </>
   )
